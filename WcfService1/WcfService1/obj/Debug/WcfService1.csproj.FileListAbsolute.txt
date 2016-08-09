@@ -1,0 +1,4 @@
+F:\Other\Playground\wcf-vs3\WcfService1\WcfService1\bin\WcfService1.dll
+F:\Other\Playground\wcf-vs3\WcfService1\WcfService1\bin\WcfService1.pdb
+F:\Other\Playground\wcf-vs3\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+F:\Other\Playground\wcf-vs3\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

@@ -1,0 +1,5 @@
+F:\Other\Playground\wcf-vs3-client\ConsumeWCFservice\ConsumeWCFservice\bin\Debug\ConsumeWCFservice.exe.config
+F:\Other\Playground\wcf-vs3-client\ConsumeWCFservice\ConsumeWCFservice\bin\Debug\ConsumeWCFservice.exe
+F:\Other\Playground\wcf-vs3-client\ConsumeWCFservice\ConsumeWCFservice\bin\Debug\ConsumeWCFservice.pdb
+F:\Other\Playground\wcf-vs3-client\ConsumeWCFservice\ConsumeWCFservice\obj\x86\Debug\ConsumeWCFservice.exe
+F:\Other\Playground\wcf-vs3-client\ConsumeWCFservice\ConsumeWCFservice\obj\x86\Debug\ConsumeWCFservice.pdb
