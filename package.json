@@ -1,0 +1,19 @@
+{
+  "name": "wcf-test",
+  "version": "1.0.0",
+  "description": "Test of the wcf.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wcf",
+    "node",
+    "services"
+  ],
+  "author": "Curtis Rodgers",
+  "license": "MIT",
+  "dependencies": {
+    "wcf.js": "0.0.6"
+  }
+}
